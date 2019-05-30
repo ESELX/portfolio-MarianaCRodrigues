@@ -3360,7 +3360,7 @@ input, select, textarea {
 
 		#header > .title {
 			border: 0;
-			color: #161616;
+			color: #ffffff;
 			display: block;
 			font-size: 1.25em;
 			font-weight: bold;
@@ -3405,7 +3405,7 @@ input, select, textarea {
 						}
 
 						#header > nav > ul > li a.active {
-							color: #b71212;
+							color: #ffffff;
 						}
 
 		@media screen and (max-width: 736px) {
